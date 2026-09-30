@@ -18,6 +18,12 @@ ML: scikit-learn
 
 Tools: Jupyter Notebook · Git
 
+📌 Featured Projects
+
+House Prices — Regression Pipeline Predicting home sale prices from ~80 features. Compared Linear Regression, Random Forest, and XGBoost, with hyperparameter tuning boosting XGBoost to the best result (R² 0.909).
+
+Titanic Survival Prediction End-to-end classification pipeline: data cleaning → EDA → feature engineering → Logistic Regression vs Random Forest (~81% accuracy).
+
 📫 Let's connect
 
 Open to entry-level Data Science / Data Analytics opportunities in Košice.
